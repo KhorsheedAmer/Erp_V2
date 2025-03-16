@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1f02f7ec9140414aa1ec85f569f2b47a" Name="Diagram1">
+        <EntityTypeShape EntityType="erp_v2Model.CATEGORY" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="erp_v2Model.CUSTOMER" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="erp_v2Model.PRODUCT" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="erp_v2Model.SALES" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="erp_v2Model.SUPPLIER" Width="1.5" PointX="7" PointY="1" />
+        <EntityTypeShape EntityType="erp_v2Model.PURCHASES" Width="1.5" PointX="2.75" PointY="3.5" />
+        <EntityTypeShape EntityType="erp_v2Model.PRODUCT_RETURN" Width="1.5" PointX="5" PointY="4.125" />
+        <EntityTypeShape EntityType="erp_v2Model.EXPENSES" Width="1.5" PointX="7.125" PointY="4.25" />
+        <EntityTypeShape EntityType="erp_v2Model.PROFIT" Width="1.5" PointX="8.75" PointY="0.5" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
